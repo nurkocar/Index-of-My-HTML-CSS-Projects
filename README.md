@@ -13,11 +13,18 @@
             <td>Overview</td>
         </tr>
     </thead>
-    <tbody> <tr>
+    <tbody> 
+        <tr>
             <td>Survey Form</td>
             <td><a href="https://github.com/nurkocar/Survey-Form-Sample-Project" target="_blank">Repo details</a></td>
             <td><a href="https://nurkocar.github.io/Survey-Form-Sample-Project/" target="_blank">App details</a></td>
             <td><img style="width:500px;" src="./gifs/SurveyForm.gif" alt="html" height=130></td> 
+        </tr>
+        <tr>
+            <td>Google Landing Page</td>
+            <td><a href="https://github.com/nurkocar/Google-Landing-Page" target="_blank">Repo details</a></td>
+            <td><a href="https://nurkocar.github.io/Google-Landing-Page/" target="_blank">App details</a></td>
+            <td><img style="width:500px;" src="./images/GoogleLandingPage.png" alt="html" height=130></td> 
         </tr>
         
      

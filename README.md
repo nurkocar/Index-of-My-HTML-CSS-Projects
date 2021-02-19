@@ -17,7 +17,7 @@
             <td>Survey Form</td>
             <td><a href="https://github.com/nurkocar/Survey-Form-Sample-Project" target="_blank">Repo details</a></td>
             <td><a href="https://nurkocar.github.io/Survey-Form-Sample-Project/" target="_blank">App details</a></td>
-            <td><img src="./SurveyForm.gif" alt="html" height=130></td> 
+            <td><img style="width:300px;" src="./SurveyForm.gif" alt="html" height=130></td> 
         </tr>
         
      

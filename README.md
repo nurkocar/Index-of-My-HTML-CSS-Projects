@@ -43,6 +43,12 @@
             <td><a href="https://github.com/nurkocar/My-Team-Page" target="_blank">Repo details</a></td>
             <td><a href="https://nurkocar.github.io/My-Team-Page/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="./gifs/TheCreativeCrew.gif" alt="html" height=130></td> 
+        </tr>
+        <tr>
+            <td>Clarusway Website</td>
+            <td><a href="https://github.com/nurkocar/Website-Page-Design" target="_blank">Repo details</a></td>
+            <td><a href="https://nurkocar.github.io/Website-Page-Design/" target="_blank">Click here to see the project</a></td>
+            <!-- <td><img style="width:500px;" src="./gifs/TheCreativeCrew.gif" alt="html" height=130></td>  -->
         </tr> 
 </tbody>
 </table>

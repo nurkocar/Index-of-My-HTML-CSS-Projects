@@ -50,5 +50,11 @@
             <td><a href="https://nurkocar.github.io/Website-Page-Design/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="./gifs/ClaruswayWebsite.gif" alt="html" height=130></td> 
         </tr> 
+        <tr>
+            <td>Checkout Form</td>
+            <td><a href="https://github.com/nurkocar/Checkout-Form" target="_blank">Repo details</a></td>
+            <td><a href="https://nurkocar.github.io/Checkout-Form/" target="_blank">Click here to see the project</a></td>
+            <td><img style="width:500px;" src="./images/CheckoutForm.PNG" alt="html" height=130></td> 
+        </tr>
 </tbody>
 </table>
